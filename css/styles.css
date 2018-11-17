@@ -17,17 +17,17 @@ body {
   height: 1.5em;
 }
 
-/*.hai {
+.hai {
   font-size: 5rem;
   display: block;
   width: 5.8rem;
   -webkit-transform-origin: center;
-          transform-origin: center;
+  transform-origin: center;
   -webkit-animation: wave 700ms ease-in-out infinite;
-          animation: wave 700ms ease-in-out infinite;
+  animation: wave 700ms ease-in-out infinite;
 }
 
-@-webkit-keyframes wave {
+/*@-webkit-keyframes wave {
   0% {
     -webkit-transform: rotate(30deg);
             transform: rotate(30deg);
